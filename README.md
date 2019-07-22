@@ -7,5 +7,7 @@ npm i good-react-component-1
 ```
 
 ```
-import good-react-component-1 
+import Good from 'good-react-component-1'
+
+<Good emoji />
 ```
