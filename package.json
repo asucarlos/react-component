@@ -1,5 +1,5 @@
 {
-  "name": "react-component",
+  "name": "good-react-component-1",
   "version": "0.1.0",
   "description": "react component",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asucarlos/react-component.git"
+    "url": "git+https://github.com/asucarlos/good-react-component-1.git"
   },
   "author": "A",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/asucarlos/react-component/issues"
+    "url": "https://github.com/asucarlos/good-react-component-1/issues"
   },
-  "homepage": "https://github.com/asucarlos/react-component#readme"
+  "homepage": "https://github.com/asucarlos/good-react-component-1#readme"
 }
